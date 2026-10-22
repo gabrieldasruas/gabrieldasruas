@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Gabriel 👋</h1>
+<h1 align="center">Gabriel G Souza </h1>
 <h3 align="center">Dev full stack em formação · criando SaaS com Next.js, React e Supabase</h3>
 
 <p align="center">
