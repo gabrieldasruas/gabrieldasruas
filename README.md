@@ -6,7 +6,7 @@
 - 🚀 Criador do **[Oraklo](https://github.com/gabrieldasruas/oraklo)** e da **[Codexa](https://github.com/gabrieldasruas/codexa)**
 - 🔎 Oraklo: prospecção B2B com busca de empresas por mapa, pipeline, e-mail, WhatsApp e IA · [ver no ar](https://oraklo.vercel.app)
 - 🌐 Codexa: vitrine de modelos de sites para empresas
-- 🌱 Aprendendo mais de back-end, banco de dados e produto
+- 🌱 Aperfeiçoando minhas skills em front end  
 
 <br clear="right" />
 
