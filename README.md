@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou o Gabriel 👋</h1>
-<h3 align="center">Dev full stack em formação · criando SaaS com Next.js, React e Supabase</h3>
+<h3 align="center">Dev em formação · criando SaaS com Next.js, React e Supabase</h3>
 
 <img align="right" width="280" alt="Programando" src="matrix.gif" />
 
