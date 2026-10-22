@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Gabriel 👋</h1>
+<h1 align="center">Gabriel G Souza </h1>
 <h3 align="center">Dev full stack em formação · criando SaaS com Next.js, React e Supabase</h3>
 
 <img align="right" width="280" alt="Programando" src="matrix.gif" />
@@ -6,7 +6,7 @@
 - 🚀 Criador do **[Oraklo](https://github.com/gabrieldasruas/oraklo)** e da **[Codexa](https://github.com/gabrieldasruas/codexa)**
 - 🔎 Oraklo: prospecção B2B com busca de empresas por mapa, pipeline, e-mail, WhatsApp e IA · [ver no ar](https://oraklo.vercel.app)
 - 🌐 Codexa: vitrine de modelos de sites para empresas · [ver no ar](https://codex-tecnologia.vercel.app)
-- 🌱 Aprendendo mais de back-end, banco de dados e produto
+- 🌱 Aprimorando minhas skills em front end. 
 
 <br clear="right" />
 
